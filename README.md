@@ -16,9 +16,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tan8696&label=Profile%20Views&color=a970ff&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/tan8696?label=Followers&style=for-the-badge&color=a970ff)
-![Stars](https://img.shields.io/github/stars/tan8696?label=Stars&style=for-the-badge&color=a970ff)
 
 </div>
 
