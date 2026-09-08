@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=probably+debugging+something+right+now;fueled+by+chai+%2B+chaos;still+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Followers](https://img.shields.io/github/followers/tan8696?label=Followers&style=for-the-badge&color=a970ff)
-
 </div>
 
 <br/>
