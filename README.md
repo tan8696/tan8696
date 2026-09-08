@@ -1,16 +1,106 @@
-## Hi there 👋
-
 <!--
-**tan8696/tan8696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ✏️  QUICK EDIT GUIDE — replace these before you push again:
+  - "Tan" in the banner + typing SVG → your name
+  - the bullet points under "A little about me" → your real info
+  - the social badge links near the bottom → your real LinkedIn / X / email
+  - "tan8696" in the stats / streak / snake URLs → keep as-is, it already matches this repo's owner
 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=220&section=header&text=Hi%20There,%20I'm%20Tan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/tan8696">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=probably+debugging+something+right+now;fueled+by+chai+%2B+chaos;still+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tan8696&label=Profile%20Views&color=a970ff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/tan8696?label=Followers&style=for-the-badge&color=a970ff)
+![Stars](https://img.shields.io/github/stars/tan8696?label=Stars&style=for-the-badge&color=a970ff)
+
+</div>
+
+<br/>
+
+## 🧠 A little about me
+
+- 🔭 Currently building things that (mostly) work on the first try
+- 🌱 Learning something new every time a bug humbles me
+- 👯 Open to collaborating on interesting projects — hit me up
+- 💬 Ask me about anything code, no judgment
+- ⚡ Fun fact: this README has more animations than my actual social life
+
+<br/>
+
+## 💥 Mood of the day
+
+<div align="center">
+
+<img src="./assets/meme.jpg" width="280" alt="explosion energy gen z meme"/>
+
+**me after fixing one bug and creating three more** 💣✨
+<br/>
+<sub>no thoughts, just vibes and unhandled exceptions</sub>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,vscode,figma,tailwind&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tan8696&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan8696&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=tan8696&theme=radical&hide_border=true" height="180"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tan8696/tan8696/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tan8696/tan8696/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tan8696/tan8696/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>updates itself automatically every 12 hours via GitHub Actions — no manual refresh needed</sub>
+
+</div>
+
+<br/>
+
+## 📫 Let's connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-linkedin-here">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/your-handle-here">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:your-email-here@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=120&section=footer" width="100%"/>
