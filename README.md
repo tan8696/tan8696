@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-here">
+<a href="https://www.linkedin.com/in/tanish-lather-27456b40a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/your-handle-here">
