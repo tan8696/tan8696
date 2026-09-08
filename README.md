@@ -85,10 +85,10 @@
 <a href="https://www.linkedin.com/in/tanish-lather-27456b40a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/your-handle-here">
+<a href="https://x.com/la_tanish74507">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="mailto:your-email-here@example.com">
+<a href="mailto:tanishla1100@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
