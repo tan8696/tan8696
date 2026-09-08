@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,20&height=220&section=header&text=Hi%20There,%20I'm%20Tan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/tan8696">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=probably+debugging+something+right+now;fueled+by+chai+%2B+chaos;still+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=probably+debugging+something+right+now;fueled+by+chai+%2B+chaos;still+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 </div>
